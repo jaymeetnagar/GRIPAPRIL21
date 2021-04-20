@@ -1,5 +1,6 @@
 # Graduate Rotational Internship Program (GRIP)
-#The Sparks Foundation
+
+The Sparks Foundation
 
 Task #3 - Exploratory Data Analysis
 
